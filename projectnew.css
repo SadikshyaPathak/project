@@ -1,0 +1,127 @@
+*{
+margin: 0;
+padding: 0;
+box-sizing: border-box;
+}
+.firstblank{
+border:1px solid black;
+height:30px;
+width:100vw;
+background-color:rgb(218,204,189);
+}
+.header{
+    display:flex;
+    flex-direction:row;
+    align-items:left;
+    justify-content:space-around;  
+    background-color:rgb(218,204,189)
+}
+
+.containeri{
+    display: flex;
+border:1px solid black;
+height:500px;
+width:100vw;
+align-items: center;
+justify-content: center;
+background-color:rgb(218,204,189) ;
+
+}
+.bobatea2{
+    
+    height:450px;
+    width:500px;
+    margin-top:50%;
+    margin-bottom: 50%;
+    margin-right:390px;
+    position: relative;
+    /* margin-left: 50%;
+    margin-right: 50%;
+} */}
+.img1{
+    /* border:2px solid black; */
+    height:250px;
+    width: 200px;
+    position:absolute;
+    margin-left: 35%;
+    margin-top:10%;
+} 
+
+/* .bobateapine{
+    border:2px solid black;
+height:240px;
+width:240px;
+margin-bottom:1000px;
+} */
+.rightimg{
+border:1px solid black;
+height:260px;
+width:250px;
+margin-bottom:100px;
+}
+.pine{
+    /* border:1px solid red; */
+height:200px;
+width:200px;
+margin-bottom:5%;
+margin-left:55%;
+position: absolute;
+}
+
+.natural{
+    color: white;
+    text-decoration:wavy;
+    
+}
+.containerblank{
+    background-color: white;
+    width: 100vw;
+    height:80px;
+    border:1px solid red;
+}
+.containerii{
+    width:100vw;
+    height:1050px;
+    border: 1px solid black;
+    background-color:white;
+}
+.h1{
+    color:rgb(212,20,66);
+    font-size:60px;
+    font-weight: 900;
+    text-align: center;
+}
+.paragraph{
+    color:rgb(151,135,138);
+    text-align: center;
+    margin-left:110px;
+    margin-right:110px;
+    font-size:18px;
+}
+.ab{
+    display:flex;
+    flex-direction: row;
+}
+.a{
+    width:430px;
+    height:700px;
+    border: 1px solid green;
+    margin-left:180px;
+}
+.b{width:430px;
+    height:700px;
+    border: 1px solid green;
+    margin-left:110px;
+}
+   .blankcont{
+    width:100vw;
+    height: 100px;
+    border: 2px solid blue;
+   }
+.lastcont{
+    width:100vw;
+    height: 100vh;
+    border: 2px solid black;
+    background-color:rgb(218,204,189) ;
+}
+
